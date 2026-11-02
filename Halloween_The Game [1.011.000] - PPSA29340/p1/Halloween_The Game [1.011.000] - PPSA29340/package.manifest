@@ -1,0 +1,453 @@
+{
+  "chunks": [
+    {
+      "id": 0,
+      "culture": [],
+      "label": "RequiredChunk",
+      "isinitial": true,
+      "files": [
+        "engine/content/renderer/tessellationtable.bin",
+        "prx/libvivoxsdk.prx",
+        "prx/ak3daudiobedmixer.prx",
+        "prx/akaudioinput.prx",
+        "prx/akchannelrouter.prx",
+        "prx/akcompressor.prx",
+        "prx/akconvolutionreverb.prx",
+        "prx/akdelay.prx",
+        "prx/akexpander.prx",
+        "prx/akflanger.prx",
+        "prx/akgain.prx",
+        "prx/akguitardistortion.prx",
+        "prx/akharmonizer.prx",
+        "prx/akimpacter.prx",
+        "prx/akmatrixreverb.prx",
+        "prx/akmotion.prx",
+        "prx/akparametriceq.prx",
+        "prx/akpeaklimiter.prx",
+        "prx/akpitchshifter.prx",
+        "prx/akrecorder.prx",
+        "prx/akreflect.prx",
+        "prx/akroomverb.prx",
+        "prx/aksilencegenerator.prx",
+        "prx/aksinetone.prx",
+        "prx/aksoundseedair.prx",
+        "prx/aksoundseedgrain.prx",
+        "prx/akstereodelay.prx",
+        "prx/aksynthone.prx",
+        "prx/aktimestretch.prx",
+        "prx/aktonegen.prx",
+        "prx/aktremolo.prx",
+        "prx/akvorbishwaccelerator.prx",
+        "prx/auro.prx",
+        "prx/crankcaseaudiorevmodelplayer.prx",
+        "prx/masteringsuite.prx",
+        "prx/mcdsp.prx",
+        "prx/resonanceaudio.prx",
+        "prx/speechengine.prx",
+        "prx/tencentgme.prx",
+        "prx/izotope.prx",
+        "prx/vt_arb_g22.prx",
+        "prx/vt_bpt_g22.prx",
+        "prx/vt_bre_g22.prx",
+        "prx/vt_chi_g22.prx",
+        "prx/vt_eng_g22.prx",
+        "prx/vt_esp_g22.prx",
+        "prx/vt_fre_g22.prx",
+        "prx/vt_ger_g22.prx",
+        "prx/vt_ita_g22.prx",
+        "prx/vt_jpn_g22.prx",
+        "prx/vt_kor_g22.prx",
+        "prx/vt_pol_g22.prx",
+        "prx/vt_por_g22.prx",
+        "prx/vt_rus_g22.prx",
+        "prx/vt_tha_g22.prx",
+        "prx/vt_yue_g22.prx",
+        "engine/config/stagedbuild_ravage.ini",
+        "ravage/content/movies/11-13.bk2",
+        "ravage/content/movies/14-18.bk2",
+        "ravage/content/movies/22.bk2",
+        "ravage/content/movies/7-10.bk2",
+        "ravage/content/movies/intro.bk2",
+        "ravage/content/movies/nosferatu1_cropped.bk2",
+        "ravage/content/movies/nosferatu2_cropped.bk2",
+        "ravage/content/movies/nosferatu3_cropped.bk2",
+        "ravage/content/movies/nosferatu4_cropped.bk2",
+        "ravage/content/movies/nosferatu5_cropped.bk2",
+        "sce_module/libc.prx",
+        "sce_module/libSceFontGsm.prx",
+        "sce_module/libSceJobManager.prx",
+        "sce_module/libSceNpCppWebApi.prx",
+        "sce_module/libScePfs.prx",
+        "uecommandline.txt",
+        "ravage/content/paks/pakchunk0-ps5.pak",
+        "ravage/content/paks/global.ucas",
+        "ravage/content/paks/pakchunk0-ps5.ucas",
+        "ravage/content/paks/global.utoc",
+        "ravage/content/paks/pakchunk0-ps5.utoc"
+      ]
+    },
+    {
+      "id": 1,
+      "culture": [],
+      "label": "BaseMaps",
+      "isinitial": true,
+      "files": [
+        "ravage/content/paks/pakchunk1-ps5.pak",
+        "ravage/content/paks/pakchunk1-ps5.ucas",
+        "ravage/content/paks/pakchunk1-ps5.utoc"
+      ]
+    },
+    {
+      "id": 2,
+      "culture": [],
+      "label": "BaseCharacters",
+      "isinitial": true,
+      "files": [
+        "ravage/content/paks/pakchunk2-ps5.pak",
+        "ravage/content/paks/pakchunk2-ps5.ucas",
+        "ravage/content/paks/pakchunk2-ps5.utoc"
+      ]
+    },
+    {
+      "id": 3,
+      "culture": [],
+      "label": "SPChapter0",
+      "isinitial": true,
+      "files": [
+        "ravage/content/paks/pakchunk3-ps5.pak",
+        "ravage/content/paks/pakchunk3-ps5.ucas",
+        "ravage/content/paks/pakchunk3-ps5.utoc"
+      ]
+    },
+    {
+      "id": 4,
+      "culture": [],
+      "label": "SPChapter1",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk4-ps5.pak",
+        "ravage/content/paks/pakchunk4-ps5.ucas",
+        "ravage/content/paks/pakchunk4-ps5.utoc"
+      ]
+    },
+    {
+      "id": 5,
+      "culture": [],
+      "label": "SPChapter2",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk5-ps5.pak",
+        "ravage/content/paks/pakchunk5-ps5.ucas",
+        "ravage/content/paks/pakchunk5-ps5.utoc"
+      ]
+    },
+    {
+      "id": 6,
+      "culture": [],
+      "label": "SPChapter3",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk6-ps5.pak",
+        "ravage/content/paks/pakchunk6-ps5.ucas",
+        "ravage/content/paks/pakchunk6-ps5.utoc"
+      ]
+    },
+    {
+      "id": 7,
+      "culture": [],
+      "label": "SPChapter4_5",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk7-ps5.pak",
+        "ravage/content/paks/pakchunk7-ps5.ucas",
+        "ravage/content/paks/pakchunk7-ps5.utoc"
+      ]
+    },
+    {
+      "id": 10,
+      "culture": [],
+      "label": "Chunk #10",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk10-ps5.pak",
+        "ravage/content/paks/pakchunk10-ps5.ucas",
+        "ravage/content/paks/pakchunk10-ps5.utoc"
+      ]
+    },
+    {
+      "id": 11,
+      "culture": [],
+      "label": "Chunk #11",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk11-ps5.pak",
+        "ravage/content/paks/pakchunk11-ps5.ucas",
+        "ravage/content/paks/pakchunk11-ps5.utoc"
+      ]
+    },
+    {
+      "id": 30,
+      "culture": [],
+      "label": "Hero00",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk30-ps5.pak",
+        "ravage/content/paks/pakchunk30-ps5.ucas",
+        "ravage/content/paks/pakchunk30-ps5.utoc"
+      ]
+    },
+    {
+      "id": 31,
+      "culture": [],
+      "label": "Hero01",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk31-ps5.pak",
+        "ravage/content/paks/pakchunk31-ps5.ucas",
+        "ravage/content/paks/pakchunk31-ps5.utoc"
+      ]
+    },
+    {
+      "id": 32,
+      "culture": [],
+      "label": "Hero02",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk32-ps5.pak",
+        "ravage/content/paks/pakchunk32-ps5.ucas",
+        "ravage/content/paks/pakchunk32-ps5.utoc"
+      ]
+    },
+    {
+      "id": 33,
+      "culture": [],
+      "label": "Hero03",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk33-ps5.pak",
+        "ravage/content/paks/pakchunk33-ps5.ucas",
+        "ravage/content/paks/pakchunk33-ps5.utoc"
+      ]
+    },
+    {
+      "id": 34,
+      "culture": [],
+      "label": "Chunk #34",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk34-ps5.pak",
+        "ravage/content/paks/pakchunk34-ps5.ucas",
+        "ravage/content/paks/pakchunk34-ps5.utoc"
+      ]
+    },
+    {
+      "id": 35,
+      "culture": [],
+      "label": "Hero05",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk35-ps5.pak",
+        "ravage/content/paks/pakchunk35-ps5.ucas",
+        "ravage/content/paks/pakchunk35-ps5.utoc"
+      ]
+    },
+    {
+      "id": 36,
+      "culture": [],
+      "label": "Hero06",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk36-ps5.pak",
+        "ravage/content/paks/pakchunk36-ps5.ucas",
+        "ravage/content/paks/pakchunk36-ps5.utoc"
+      ]
+    },
+    {
+      "id": 37,
+      "culture": [],
+      "label": "Hero07",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk37-ps5.pak",
+        "ravage/content/paks/pakchunk37-ps5.ucas",
+        "ravage/content/paks/pakchunk37-ps5.utoc"
+      ]
+    },
+    {
+      "id": 38,
+      "culture": [],
+      "label": "Hero08",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk38-ps5.pak",
+        "ravage/content/paks/pakchunk38-ps5.ucas",
+        "ravage/content/paks/pakchunk38-ps5.utoc"
+      ]
+    },
+    {
+      "id": 39,
+      "culture": [],
+      "label": "Chunk #39",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk39-ps5.pak",
+        "ravage/content/paks/pakchunk39-ps5.ucas",
+        "ravage/content/paks/pakchunk39-ps5.utoc"
+      ]
+    },
+    {
+      "id": 40,
+      "culture": [],
+      "label": "Hero10",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk40-ps5.pak",
+        "ravage/content/paks/pakchunk40-ps5.ucas",
+        "ravage/content/paks/pakchunk40-ps5.utoc"
+      ]
+    },
+    {
+      "id": 41,
+      "culture": [],
+      "label": "Hero11",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk41-ps5.pak",
+        "ravage/content/paks/pakchunk41-ps5.ucas",
+        "ravage/content/paks/pakchunk41-ps5.utoc"
+      ]
+    },
+    {
+      "id": 42,
+      "culture": [],
+      "label": "Hero12",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk42-ps5.pak",
+        "ravage/content/paks/pakchunk42-ps5.ucas",
+        "ravage/content/paks/pakchunk42-ps5.utoc"
+      ]
+    },
+    {
+      "id": 43,
+      "culture": [],
+      "label": "Hero13",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk43-ps5.pak",
+        "ravage/content/paks/pakchunk43-ps5.ucas",
+        "ravage/content/paks/pakchunk43-ps5.utoc"
+      ]
+    },
+    {
+      "id": 50,
+      "culture": [],
+      "label": "Killer00",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk50-ps5.pak",
+        "ravage/content/paks/pakchunk50-ps5.ucas",
+        "ravage/content/paks/pakchunk50-ps5.utoc"
+      ]
+    },
+    {
+      "id": 51,
+      "culture": [],
+      "label": "Chunk #51",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk51-ps5.pak",
+        "ravage/content/paks/pakchunk51-ps5.ucas",
+        "ravage/content/paks/pakchunk51-ps5.utoc"
+      ]
+    },
+    {
+      "id": 52,
+      "culture": [],
+      "label": "Chunk #52",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk52-ps5.pak",
+        "ravage/content/paks/pakchunk52-ps5.ucas",
+        "ravage/content/paks/pakchunk52-ps5.utoc"
+      ]
+    },
+    {
+      "id": 53,
+      "culture": [],
+      "label": "Killer03",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk53-ps5.pak",
+        "ravage/content/paks/pakchunk53-ps5.ucas",
+        "ravage/content/paks/pakchunk53-ps5.utoc"
+      ]
+    },
+    {
+      "id": 54,
+      "culture": [],
+      "label": "Killer04",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk54-ps5.pak",
+        "ravage/content/paks/pakchunk54-ps5.ucas",
+        "ravage/content/paks/pakchunk54-ps5.utoc"
+      ]
+    },
+    {
+      "id": 55,
+      "culture": [],
+      "label": "Killer05",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk55-ps5.pak",
+        "ravage/content/paks/pakchunk55-ps5.ucas",
+        "ravage/content/paks/pakchunk55-ps5.utoc"
+      ]
+    },
+    {
+      "id": 56,
+      "culture": [],
+      "label": "Killer06",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk56-ps5.pak",
+        "ravage/content/paks/pakchunk56-ps5.ucas",
+        "ravage/content/paks/pakchunk56-ps5.utoc"
+      ]
+    },
+    {
+      "id": 57,
+      "culture": [],
+      "label": "Killer07",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk57-ps5.pak",
+        "ravage/content/paks/pakchunk57-ps5.ucas",
+        "ravage/content/paks/pakchunk57-ps5.utoc"
+      ]
+    },
+    {
+      "id": 58,
+      "culture": [],
+      "label": "Killer08",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk58-ps5.pak",
+        "ravage/content/paks/pakchunk58-ps5.ucas",
+        "ravage/content/paks/pakchunk58-ps5.utoc"
+      ]
+    },
+    {
+      "id": 500,
+      "culture": [],
+      "label": "Chunk #500",
+      "isinitial": false,
+      "files": [
+        "ravage/content/paks/pakchunk500-ps5.pak",
+        "ravage/content/paks/pakchunk500-ps5.ucas",
+        "ravage/content/paks/pakchunk500-ps5.utoc"
+      ]
+    }
+  ]
+}

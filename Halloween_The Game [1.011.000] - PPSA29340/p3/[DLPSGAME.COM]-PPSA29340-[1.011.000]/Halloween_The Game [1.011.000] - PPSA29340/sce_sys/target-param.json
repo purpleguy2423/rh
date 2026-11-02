@@ -1,0 +1,131 @@
+{
+  "addcont": {
+    "serviceIdForSharing": [
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   ",
+      "                   "
+    ]
+  },
+  "ageLevel": {
+    "AE": 18,
+    "AR": 17,
+    "AT": 18,
+    "AU": 18,
+    "BE": 18,
+    "BG": 18,
+    "BH": 18,
+    "BO": 17,
+    "BR": 18,
+    "CA": 17,
+    "CH": 18,
+    "CL": 17,
+    "CO": 17,
+    "CR": 17,
+    "CY": 18,
+    "CZ": 18,
+    "DE": 18,
+    "DK": 18,
+    "EC": 17,
+    "ES": 18,
+    "FI": 18,
+    "FR": 18,
+    "GB": 18,
+    "GR": 18,
+    "GT": 17,
+    "HK": 18,
+    "HN": 17,
+    "HR": 18,
+    "HU": 18,
+    "ID": 18,
+    "IE": 18,
+    "IL": 18,
+    "IN": 18,
+    "IS": 18,
+    "IT": 18,
+    "JP": 18,
+    "KR": 18,
+    "KW": 18,
+    "LB": 18,
+    "LU": 18,
+    "MT": 18,
+    "MX": 17,
+    "MY": 18,
+    "NI": 17,
+    "NL": 18,
+    "NO": 18,
+    "NZ": 18,
+    "OM": 18,
+    "PA": 17,
+    "PE": 17,
+    "PL": 18,
+    "PT": 18,
+    "PY": 17,
+    "QA": 18,
+    "RO": 18,
+    "RU": 18,
+    "SA": 18,
+    "SE": 18,
+    "SG": 18,
+    "SI": 18,
+    "SK": 18,
+    "SV": 17,
+    "TH": 18,
+    "TR": 18,
+    "UA": 18,
+    "US": 17,
+    "UY": 17,
+    "ZA": 18,
+    "default": 18
+  },
+  "applicationCategoryType": 0,
+  "applicationDrmType": "standard",
+  "attribute": 536870912,
+  "attribute2": 0,
+  "attribute3": 4194304,
+  "conceptId": "10014718",
+  "contentBadgeType": 1,
+  "contentId": "UP3095-PPSA29340_00-RAVAGEGAME100000",
+  "contentVersion": "01.010.000",
+  "downloadDataSize": 1024,
+  "gameIntent": {
+    "permittedIntents": [
+      {
+        "intentType": "joinSession"
+      },
+      {
+        "intentType": "launchActivity"
+      },
+      {
+        "intentType": "launchMultiplayerActivity"
+      }
+    ]
+  },
+  "kernel": {
+    "cpuPageTableSize": 67108864,
+    "gpuPageTableSize": 67108864
+  },
+  "localizedParameters": {
+    "defaultLanguage": "en-US",
+    "en-US": {
+      "titleName": "Halloween: The Game"
+    }
+  },
+  "masterVersion": "01.00",
+  "originContentVersion": "01.000.000",
+  "pubtools": {
+    "creationDate": "2026-09-11 01:01:19",
+    "loudnessSnd0": "-23.58",
+    "submission": true,
+    "toolVersion": "3.45"
+  },
+  "requiredSystemSoftwareVersion": "0x1200000000000000",
+  "sdkVersion": "0x1200000000000000",
+  "targetContentVersion": "01.009.000",
+  "titleId": "PPSA29340",
+  "userDefinedParam1": 0,
+  "versionFileUri": "https://agst.prod.dl.playstation.net/agst/prod/00/sp-int/PPSA29340_00/d785ad8e-835f-409e-a2a8-566aadaf08f2-version.xml                                                                                                                                         "
+}
